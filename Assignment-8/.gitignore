@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Prometheus local database
+prometheus/data/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.deb
